@@ -1,1 +1,6 @@
-= Notes on PDF file format =
+# Notes on PDF file format
+
+## To do
+* Adobe specs? https://www.adobe.com/devnet/pdf/pdf_reference.html
+* https://blog.didierstevens.com/category/pdf/
+* https://blog.idrsolutions.com/series-article-index/ ?
